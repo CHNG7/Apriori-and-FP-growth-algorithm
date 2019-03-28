@@ -1,0 +1,10 @@
+Closed frequent item set
+{ tropical fruit,  }
+{ yogurt,  }
+{ whole milk,  }
+{ other vegetables,  }
+{ rolls/buns,  }
+{ bottled water,  }
+{ soda,  }
+{ root vegetables,  }
+{ shopping bags,  }

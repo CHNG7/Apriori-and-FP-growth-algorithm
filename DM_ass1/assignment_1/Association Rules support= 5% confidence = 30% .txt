@@ -1,0 +1,6 @@
+No of Association rules = 5
+1.) { whole milk, } -----> { yogurt, } confidence = 40.1603
+2.) { whole milk, } -----> { other vegetables, } confidence = 38.6758
+3.) { whole milk, } -----> { rolls/buns, } confidence = 30.7905
+4.) { whole milk, } -----> { root vegetables, } confidence = 44.8694
+5.) { other vegetables, } -----> { root vegetables, } confidence = 43.4701

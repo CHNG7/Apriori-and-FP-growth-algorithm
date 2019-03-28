@@ -1,0 +1,2 @@
+No of Association rules = 1
+1.) { whole milk, } -----> { baking powder, } confidence = 52.2989

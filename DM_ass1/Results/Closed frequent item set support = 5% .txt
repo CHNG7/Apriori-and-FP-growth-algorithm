@@ -1,0 +1,36 @@
+Closed frequent item set
+{ citrus fruit,  }
+{ margarine,  }
+{ tropical fruit,  }
+{ yogurt,  }
+{ coffee,  }
+{ whole milk,  }
+{ pip fruit,  }
+{ other vegetables,  }
+{ butter,  }
+{ rolls/buns,  }
+{ bottled beer,  }
+{ bottled water,  }
+{ chocolate,  }
+{ curd,  }
+{ beef,  }
+{ frankfurter,  }
+{ soda,  }
+{ fruit/vegetable juice,  }
+{ newspapers,  }
+{ pastry,  }
+{ root vegetables,  }
+{ canned beer,  }
+{ sausage,  }
+{ brown bread,  }
+{ shopping bags,  }
+{ napkins,  }
+{ pork,  }
+{ whipped/sour cream,  }
+{ domestic eggs,  }
+{ frozen vegetables,  }
+{ yogurt, whole milk,  }
+{ whole milk, other vegetables,  }
+{ whole milk, rolls/buns,  }
+{ whole milk, root vegetables,  }
+{ other vegetables, root vegetables,  }

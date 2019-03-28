@@ -1,0 +1,9 @@
+{
+    "C_Cpp.intelliSenseEngineFallback": "Disabled",
+    "files.associations": {
+        "vector": "cpp",
+        "unordered_map": "cpp",
+        "iostream": "cpp",
+        "tuple": "cpp"
+    }
+}

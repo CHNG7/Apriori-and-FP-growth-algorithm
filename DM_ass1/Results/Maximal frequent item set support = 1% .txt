@@ -1,0 +1,709 @@
+Maximal frequent item set
+{ condensed milk,  }
+{ rice,  }
+{ liquor (appetizer),  }
+{ cereals,  }
+{ packaged fruit/vegetables,  }
+{ frozen dessert,  }
+{ sweet spreads,  }
+{ spices,  }
+{ zwieback,  }
+{ spread cheese,  }
+{ turkey,  }
+{ chocolate marshmallow,  }
+{ seasonal products,  }
+{ curd cheese,  }
+{ red/blush wine,  }
+{ frozen potato products,  }
+{ candles,  }
+{ flower (seeds),  }
+{ sparkling wine,  }
+{ salt,  }
+{ canned vegetables,  }
+{ white wine,  }
+{ photo/film,  }
+{ softener,  }
+{ cling film/bags,  }
+{ Instant food products,  }
+{ dental care,  }
+{ popcorn,  }
+{ specialty cheese,  }
+{ finished products,  }
+{ dog food,  }
+{ frozen fish,  }
+{ cleaner,  }
+{ female sanitary products,  }
+{ dish cleaner,  }
+{ house keeping products,  }
+{ liquor,  }
+{ pet care,  }
+{ soups,  }
+{ sauces,  }
+{ vinegar,  }
+{ instant coffee,  }
+{ roll products,  }
+{ mayonnaise,  }
+{ liver loaf,  }
+{ kitchen towels,  }
+{ jam,  }
+{ citrus fruit, margarine,  }
+{ citrus fruit, coffee,  }
+{ citrus fruit, cream cheese,  }
+{ citrus fruit, bottled beer,  }
+{ citrus fruit, chocolate,  }
+{ citrus fruit, curd,  }
+{ citrus fruit, beef,  }
+{ citrus fruit, frankfurter,  }
+{ citrus fruit, soda,  }
+{ citrus fruit, chicken,  }
+{ citrus fruit, fruit/vegetable juice,  }
+{ citrus fruit, newspapers,  }
+{ citrus fruit, pastry,  }
+{ citrus fruit, sausage,  }
+{ citrus fruit, brown bread,  }
+{ citrus fruit, shopping bags,  }
+{ citrus fruit, hygiene articles,  }
+{ citrus fruit, napkins,  }
+{ citrus fruit, pork,  }
+{ citrus fruit, berries,  }
+{ citrus fruit, frozen vegetables,  }
+{ citrus fruit, onions,  }
+{ semi-finished bread, whole milk,  }
+{ semi-finished bread, other vegetables,  }
+{ margarine, tropical fruit,  }
+{ margarine, pip fruit,  }
+{ margarine, butter,  }
+{ margarine, bottled beer,  }
+{ margarine, bottled water,  }
+{ margarine, curd,  }
+{ margarine, beef,  }
+{ margarine, frankfurter,  }
+{ margarine, soda,  }
+{ margarine, sugar,  }
+{ margarine, fruit/vegetable juice,  }
+{ margarine, newspapers,  }
+{ margarine, pastry,  }
+{ margarine, sausage,  }
+{ margarine, brown bread,  }
+{ margarine, shopping bags,  }
+{ margarine, pork,  }
+{ margarine, whipped/sour cream,  }
+{ margarine, frozen vegetables,  }
+{ tropical fruit, coffee,  }
+{ tropical fruit, cream cheese,  }
+{ tropical fruit, long life bakery product,  }
+{ tropical fruit, bottled beer,  }
+{ tropical fruit, white bread,  }
+{ tropical fruit, chocolate,  }
+{ tropical fruit, beef,  }
+{ tropical fruit, chicken,  }
+{ tropical fruit, butter milk,  }
+{ tropical fruit, salty snack,  }
+{ tropical fruit, waffles,  }
+{ tropical fruit, candy,  }
+{ tropical fruit, shopping bags,  }
+{ tropical fruit, hygiene articles,  }
+{ tropical fruit, napkins,  }
+{ tropical fruit, pork,  }
+{ tropical fruit, berries,  }
+{ tropical fruit, grapes,  }
+{ tropical fruit, dessert,  }
+{ tropical fruit, ham,  }
+{ tropical fruit, frozen vegetables,  }
+{ tropical fruit, frozen meals,  }
+{ tropical fruit, onions,  }
+{ tropical fruit, sliced cheese,  }
+{ yogurt, long life bakery product,  }
+{ yogurt, UHT-milk,  }
+{ yogurt, white bread,  }
+{ yogurt, chocolate,  }
+{ yogurt, chicken,  }
+{ yogurt, sugar,  }
+{ yogurt, butter milk,  }
+{ yogurt, salty snack,  }
+{ yogurt, waffles,  }
+{ yogurt, candy,  }
+{ yogurt, canned beer,  }
+{ yogurt, beverages,  }
+{ yogurt, hamburger meat,  }
+{ yogurt, hygiene articles,  }
+{ yogurt, pork,  }
+{ yogurt, berries,  }
+{ yogurt, dessert,  }
+{ yogurt, hard cheese,  }
+{ yogurt, cat food,  }
+{ yogurt, ham,  }
+{ yogurt, oil,  }
+{ yogurt, frozen meals,  }
+{ yogurt, onions,  }
+{ yogurt, sliced cheese,  }
+{ yogurt, soft cheese,  }
+{ yogurt, meat,  }
+{ coffee, pip fruit,  }
+{ coffee, rolls/buns,  }
+{ coffee, bottled water,  }
+{ coffee, frankfurter,  }
+{ coffee, soda,  }
+{ coffee, fruit/vegetable juice,  }
+{ coffee, pastry,  }
+{ coffee, root vegetables,  }
+{ coffee, sausage,  }
+{ coffee, shopping bags,  }
+{ coffee, whipped/sour cream,  }
+{ whole milk, potted plants,  }
+{ whole milk, flour,  }
+{ whole milk, dishes,  }
+{ whole milk, specialty bar,  }
+{ whole milk, butter milk,  }
+{ whole milk, processed cheese,  }
+{ whole milk, detergent,  }
+{ whole milk, salty snack,  }
+{ whole milk, waffles,  }
+{ whole milk, candy,  }
+{ whole milk, canned beer,  }
+{ whole milk, beverages,  }
+{ whole milk, berries,  }
+{ whole milk, grapes,  }
+{ whole milk, dessert,  }
+{ whole milk, misc. beverages,  }
+{ whole milk, hard cheese,  }
+{ whole milk, cat food,  }
+{ whole milk, ham,  }
+{ whole milk, baking powder,  }
+{ whole milk, pickled vegetables,  }
+{ whole milk, chewing gum,  }
+{ whole milk, ice cream,  }
+{ whole milk, specialty chocolate,  }
+{ whole milk, frozen meals,  }
+{ whole milk, herbs,  }
+{ whole milk, sliced cheese,  }
+{ whole milk, pasta,  }
+{ whole milk, soft cheese,  }
+{ whole milk, cake bar,  }
+{ whole milk, meat,  }
+{ whole milk, mustard,  }
+{ pip fruit, cream cheese,  }
+{ pip fruit, butter,  }
+{ pip fruit, bottled beer,  }
+{ pip fruit, white bread,  }
+{ pip fruit, bottled water,  }
+{ pip fruit, chocolate,  }
+{ pip fruit, curd,  }
+{ pip fruit, frankfurter,  }
+{ pip fruit, soda,  }
+{ pip fruit, fruit/vegetable juice,  }
+{ pip fruit, newspapers,  }
+{ pip fruit, butter milk,  }
+{ pip fruit, brown bread,  }
+{ pip fruit, shopping bags,  }
+{ pip fruit, napkins,  }
+{ pip fruit, pork,  }
+{ pip fruit, frozen vegetables,  }
+{ cream cheese, rolls/buns,  }
+{ cream cheese, bottled water,  }
+{ cream cheese, curd,  }
+{ cream cheese, soda,  }
+{ cream cheese, fruit/vegetable juice,  }
+{ cream cheese, root vegetables,  }
+{ cream cheese, sausage,  }
+{ cream cheese, shopping bags,  }
+{ cream cheese, whipped/sour cream,  }
+{ cream cheese, domestic eggs,  }
+{ other vegetables, UHT-milk,  }
+{ other vegetables, flour,  }
+{ other vegetables, dishes,  }
+{ other vegetables, specialty bar,  }
+{ other vegetables, butter milk,  }
+{ other vegetables, processed cheese,  }
+{ other vegetables, detergent,  }
+{ other vegetables, salty snack,  }
+{ other vegetables, waffles,  }
+{ other vegetables, candy,  }
+{ other vegetables, canned beer,  }
+{ other vegetables, beverages,  }
+{ other vegetables, berries,  }
+{ other vegetables, grapes,  }
+{ other vegetables, dessert,  }
+{ other vegetables, misc. beverages,  }
+{ other vegetables, hard cheese,  }
+{ other vegetables, cat food,  }
+{ other vegetables, ham,  }
+{ other vegetables, baking powder,  }
+{ other vegetables, pickled vegetables,  }
+{ other vegetables, ice cream,  }
+{ other vegetables, canned fish,  }
+{ other vegetables, specialty chocolate,  }
+{ other vegetables, frozen meals,  }
+{ other vegetables, herbs,  }
+{ other vegetables, sliced cheese,  }
+{ other vegetables, soft cheese,  }
+{ other vegetables, meat,  }
+{ long life bakery product, rolls/buns,  }
+{ long life bakery product, chocolate,  }
+{ long life bakery product, soda,  }
+{ long life bakery product, fruit/vegetable juice,  }
+{ long life bakery product, pastry,  }
+{ long life bakery product, root vegetables,  }
+{ long life bakery product, sausage,  }
+{ long life bakery product, shopping bags,  }
+{ long life bakery product, whipped/sour cream,  }
+{ butter, bottled beer,  }
+{ butter, chocolate,  }
+{ butter, curd,  }
+{ butter, beef,  }
+{ butter, soda,  }
+{ butter, chicken,  }
+{ butter, fruit/vegetable juice,  }
+{ butter, newspapers,  }
+{ butter, pastry,  }
+{ butter, sausage,  }
+{ butter, brown bread,  }
+{ butter, pork,  }
+{ butter, frozen vegetables,  }
+{ rolls/buns, UHT-milk,  }
+{ rolls/buns, white bread,  }
+{ rolls/buns, chocolate,  }
+{ rolls/buns, sugar,  }
+{ rolls/buns, specialty bar,  }
+{ rolls/buns, butter milk,  }
+{ rolls/buns, waffles,  }
+{ rolls/buns, candy,  }
+{ rolls/buns, canned beer,  }
+{ rolls/buns, beverages,  }
+{ rolls/buns, hamburger meat,  }
+{ rolls/buns, hygiene articles,  }
+{ rolls/buns, berries,  }
+{ rolls/buns, dessert,  }
+{ rolls/buns, hard cheese,  }
+{ rolls/buns, ham,  }
+{ rolls/buns, oil,  }
+{ rolls/buns, specialty chocolate,  }
+{ rolls/buns, onions,  }
+{ rolls/buns, sliced cheese,  }
+{ rolls/buns, soft cheese,  }
+{ rolls/buns, meat,  }
+{ UHT-milk, bottled water,  }
+{ UHT-milk, soda,  }
+{ bottled beer, frankfurter,  }
+{ bottled beer, fruit/vegetable juice,  }
+{ bottled beer, root vegetables,  }
+{ bottled beer, sausage,  }
+{ bottled beer, brown bread,  }
+{ bottled beer, shopping bags,  }
+{ bottled beer, napkins,  }
+{ bottled beer, pork,  }
+{ white bread, frankfurter,  }
+{ white bread, soda,  }
+{ white bread, fruit/vegetable juice,  }
+{ white bread, pastry,  }
+{ white bread, root vegetables,  }
+{ white bread, sausage,  }
+{ white bread, shopping bags,  }
+{ white bread, whipped/sour cream,  }
+{ white bread, domestic eggs,  }
+{ white bread, ham,  }
+{ bottled water, chocolate,  }
+{ bottled water, curd,  }
+{ bottled water, beef,  }
+{ bottled water, frankfurter,  }
+{ bottled water, chicken,  }
+{ bottled water, newspapers,  }
+{ bottled water, pastry,  }
+{ bottled water, canned beer,  }
+{ bottled water, brown bread,  }
+{ bottled water, shopping bags,  }
+{ bottled water, hygiene articles,  }
+{ bottled water, napkins,  }
+{ bottled water, pork,  }
+{ bottled water, whipped/sour cream,  }
+{ bottled water, dessert,  }
+{ bottled water, domestic eggs,  }
+{ bottled water, misc. beverages,  }
+{ bottled water, frozen vegetables,  }
+{ bottled water, onions,  }
+{ chocolate, fruit/vegetable juice,  }
+{ chocolate, newspapers,  }
+{ chocolate, pastry,  }
+{ chocolate, root vegetables,  }
+{ chocolate, waffles,  }
+{ chocolate, sausage,  }
+{ chocolate, shopping bags,  }
+{ curd, soda,  }
+{ curd, newspapers,  }
+{ curd, pastry,  }
+{ curd, sausage,  }
+{ curd, shopping bags,  }
+{ curd, dessert,  }
+{ curd, domestic eggs,  }
+{ beef, soda,  }
+{ beef, fruit/vegetable juice,  }
+{ beef, newspapers,  }
+{ beef, pastry,  }
+{ beef, sausage,  }
+{ beef, pork,  }
+{ beef, whipped/sour cream,  }
+{ beef, domestic eggs,  }
+{ frankfurter, soda,  }
+{ frankfurter, fruit/vegetable juice,  }
+{ frankfurter, pastry,  }
+{ frankfurter, sausage,  }
+{ frankfurter, brown bread,  }
+{ frankfurter, shopping bags,  }
+{ frankfurter, pork,  }
+{ frankfurter, whipped/sour cream,  }
+{ frankfurter, domestic eggs,  }
+{ frankfurter, frozen vegetables,  }
+{ soda, chicken,  }
+{ soda, sugar,  }
+{ soda, newspapers,  }
+{ soda, specialty bar,  }
+{ soda, processed cheese,  }
+{ soda, salty snack,  }
+{ soda, waffles,  }
+{ soda, candy,  }
+{ soda, canned beer,  }
+{ soda, hamburger meat,  }
+{ soda, hygiene articles,  }
+{ soda, napkins,  }
+{ soda, pork,  }
+{ soda, berries,  }
+{ soda, dessert,  }
+{ soda, misc. beverages,  }
+{ soda, chewing gum,  }
+{ soda, ice cream,  }
+{ soda, frozen vegetables,  }
+{ soda, specialty chocolate,  }
+{ soda, frozen meals,  }
+{ soda, onions,  }
+{ soda, sliced cheese,  }
+{ soda, meat,  }
+{ chicken, newspapers,  }
+{ chicken, sausage,  }
+{ chicken, pork,  }
+{ chicken, whipped/sour cream,  }
+{ chicken, domestic eggs,  }
+{ chicken, frozen vegetables,  }
+{ sugar, pastry,  }
+{ sugar, root vegetables,  }
+{ fruit/vegetable juice, newspapers,  }
+{ fruit/vegetable juice, pastry,  }
+{ fruit/vegetable juice, salty snack,  }
+{ fruit/vegetable juice, sausage,  }
+{ fruit/vegetable juice, brown bread,  }
+{ fruit/vegetable juice, shopping bags,  }
+{ fruit/vegetable juice, napkins,  }
+{ fruit/vegetable juice, whipped/sour cream,  }
+{ fruit/vegetable juice, dessert,  }
+{ fruit/vegetable juice, domestic eggs,  }
+{ fruit/vegetable juice, frozen vegetables,  }
+{ newspapers, pastry,  }
+{ newspapers, sausage,  }
+{ newspapers, brown bread,  }
+{ newspapers, shopping bags,  }
+{ newspapers, napkins,  }
+{ newspapers, pork,  }
+{ newspapers, whipped/sour cream,  }
+{ newspapers, domestic eggs,  }
+{ butter milk, root vegetables,  }
+{ pastry, salty snack,  }
+{ pastry, waffles,  }
+{ pastry, brown bread,  }
+{ pastry, shopping bags,  }
+{ pastry, napkins,  }
+{ pastry, pork,  }
+{ pastry, whipped/sour cream,  }
+{ pastry, dessert,  }
+{ pastry, domestic eggs,  }
+{ root vegetables, waffles,  }
+{ root vegetables, hamburger meat,  }
+{ root vegetables, hygiene articles,  }
+{ root vegetables, napkins,  }
+{ root vegetables, berries,  }
+{ root vegetables, dessert,  }
+{ root vegetables, hard cheese,  }
+{ root vegetables, oil,  }
+{ root vegetables, herbs,  }
+{ root vegetables, sliced cheese,  }
+{ root vegetables, meat,  }
+{ salty snack, sausage,  }
+{ salty snack, shopping bags,  }
+{ salty snack, whipped/sour cream,  }
+{ waffles, shopping bags,  }
+{ waffles, whipped/sour cream,  }
+{ canned beer, sausage,  }
+{ canned beer, shopping bags,  }
+{ sausage, brown bread,  }
+{ sausage, hamburger meat,  }
+{ sausage, napkins,  }
+{ sausage, pork,  }
+{ sausage, dessert,  }
+{ sausage, domestic eggs,  }
+{ sausage, hard cheese,  }
+{ sausage, frozen vegetables,  }
+{ sausage, sliced cheese,  }
+{ sausage, meat,  }
+{ brown bread, shopping bags,  }
+{ brown bread, pork,  }
+{ brown bread, domestic eggs,  }
+{ shopping bags, hygiene articles,  }
+{ shopping bags, napkins,  }
+{ shopping bags, pork,  }
+{ shopping bags, whipped/sour cream,  }
+{ shopping bags, dessert,  }
+{ shopping bags, domestic eggs,  }
+{ hygiene articles, napkins,  }
+{ napkins, pork,  }
+{ napkins, whipped/sour cream,  }
+{ napkins, domestic eggs,  }
+{ pork, whipped/sour cream,  }
+{ pork, domestic eggs,  }
+{ pork, frozen vegetables,  }
+{ berries, whipped/sour cream,  }
+{ whipped/sour cream, frozen vegetables,  }
+{ whipped/sour cream, onions,  }
+{ domestic eggs, frozen vegetables,  }
+{ citrus fruit, tropical fruit, yogurt,  }
+{ citrus fruit, tropical fruit, whole milk,  }
+{ citrus fruit, tropical fruit, pip fruit,  }
+{ citrus fruit, tropical fruit, other vegetables,  }
+{ citrus fruit, tropical fruit, root vegetables,  }
+{ citrus fruit, yogurt, whole milk,  }
+{ citrus fruit, yogurt, other vegetables,  }
+{ citrus fruit, yogurt, rolls/buns,  }
+{ citrus fruit, whole milk, pip fruit,  }
+{ citrus fruit, whole milk, butter,  }
+{ citrus fruit, whole milk, rolls/buns,  }
+{ citrus fruit, whole milk, bottled water,  }
+{ citrus fruit, whole milk, whipped/sour cream,  }
+{ citrus fruit, whole milk, domestic eggs,  }
+{ citrus fruit, pip fruit, other vegetables,  }
+{ citrus fruit, other vegetables, rolls/buns,  }
+{ citrus fruit, other vegetables, bottled water,  }
+{ citrus fruit, other vegetables, whipped/sour cream,  }
+{ margarine, yogurt, whole milk,  }
+{ margarine, yogurt, other vegetables,  }
+{ margarine, whole milk, other vegetables,  }
+{ margarine, whole milk, rolls/buns,  }
+{ margarine, whole milk, domestic eggs,  }
+{ margarine, other vegetables, rolls/buns,  }
+{ margarine, other vegetables, root vegetables,  }
+{ tropical fruit, yogurt, pip fruit,  }
+{ tropical fruit, yogurt, rolls/buns,  }
+{ tropical fruit, yogurt, bottled water,  }
+{ tropical fruit, yogurt, curd,  }
+{ tropical fruit, yogurt, soda,  }
+{ tropical fruit, yogurt, whipped/sour cream,  }
+{ tropical fruit, whole milk, pip fruit,  }
+{ tropical fruit, whole milk, butter,  }
+{ tropical fruit, whole milk, rolls/buns,  }
+{ tropical fruit, whole milk, bottled water,  }
+{ tropical fruit, whole milk, curd,  }
+{ tropical fruit, whole milk, frankfurter,  }
+{ tropical fruit, whole milk, soda,  }
+{ tropical fruit, whole milk, fruit/vegetable juice,  }
+{ tropical fruit, whole milk, newspapers,  }
+{ tropical fruit, whole milk, pastry,  }
+{ tropical fruit, whole milk, sausage,  }
+{ tropical fruit, whole milk, brown bread,  }
+{ tropical fruit, whole milk, whipped/sour cream,  }
+{ tropical fruit, whole milk, domestic eggs,  }
+{ tropical fruit, pip fruit, other vegetables,  }
+{ tropical fruit, pip fruit, root vegetables,  }
+{ tropical fruit, other vegetables, butter,  }
+{ tropical fruit, other vegetables, rolls/buns,  }
+{ tropical fruit, other vegetables, bottled water,  }
+{ tropical fruit, other vegetables, curd,  }
+{ tropical fruit, other vegetables, soda,  }
+{ tropical fruit, other vegetables, fruit/vegetable juice,  }
+{ tropical fruit, other vegetables, pastry,  }
+{ tropical fruit, other vegetables, sausage,  }
+{ tropical fruit, other vegetables, whipped/sour cream,  }
+{ tropical fruit, rolls/buns, bottled water,  }
+{ tropical fruit, rolls/buns, soda,  }
+{ tropical fruit, rolls/buns, root vegetables,  }
+{ tropical fruit, bottled water, soda,  }
+{ yogurt, coffee, whole milk,  }
+{ yogurt, whole milk, cream cheese,  }
+{ yogurt, whole milk, butter,  }
+{ yogurt, whole milk, bottled beer,  }
+{ yogurt, whole milk, bottled water,  }
+{ yogurt, whole milk, curd,  }
+{ yogurt, whole milk, beef,  }
+{ yogurt, whole milk, frankfurter,  }
+{ yogurt, whole milk, soda,  }
+{ yogurt, whole milk, newspapers,  }
+{ yogurt, whole milk, pastry,  }
+{ yogurt, whole milk, sausage,  }
+{ yogurt, whole milk, brown bread,  }
+{ yogurt, whole milk, shopping bags,  }
+{ yogurt, whole milk, napkins,  }
+{ yogurt, whole milk, domestic eggs,  }
+{ yogurt, whole milk, frozen vegetables,  }
+{ yogurt, pip fruit, root vegetables,  }
+{ yogurt, cream cheese, other vegetables,  }
+{ yogurt, other vegetables, butter,  }
+{ yogurt, other vegetables, bottled water,  }
+{ yogurt, other vegetables, curd,  }
+{ yogurt, other vegetables, beef,  }
+{ yogurt, other vegetables, soda,  }
+{ yogurt, other vegetables, newspapers,  }
+{ yogurt, other vegetables, pastry,  }
+{ yogurt, other vegetables, sausage,  }
+{ yogurt, other vegetables, brown bread,  }
+{ yogurt, other vegetables, shopping bags,  }
+{ yogurt, other vegetables, domestic eggs,  }
+{ yogurt, other vegetables, frozen vegetables,  }
+{ yogurt, rolls/buns, bottled water,  }
+{ yogurt, rolls/buns, soda,  }
+{ yogurt, rolls/buns, newspapers,  }
+{ yogurt, rolls/buns, pastry,  }
+{ yogurt, rolls/buns, root vegetables,  }
+{ yogurt, rolls/buns, sausage,  }
+{ yogurt, bottled water, soda,  }
+{ yogurt, soda, fruit/vegetable juice,  }
+{ yogurt, soda, sausage,  }
+{ yogurt, root vegetables, sausage,  }
+{ yogurt, root vegetables, whipped/sour cream,  }
+{ coffee, whole milk, other vegetables,  }
+{ whole milk, pip fruit, rolls/buns,  }
+{ whole milk, pip fruit, pastry,  }
+{ whole milk, pip fruit, sausage,  }
+{ whole milk, pip fruit, whipped/sour cream,  }
+{ whole milk, pip fruit, domestic eggs,  }
+{ whole milk, cream cheese, other vegetables,  }
+{ whole milk, other vegetables, long life bakery product,  }
+{ whole milk, other vegetables, butter,  }
+{ whole milk, other vegetables, bottled beer,  }
+{ whole milk, other vegetables, white bread,  }
+{ whole milk, other vegetables, bottled water,  }
+{ whole milk, other vegetables, chocolate,  }
+{ whole milk, other vegetables, curd,  }
+{ whole milk, other vegetables, beef,  }
+{ whole milk, other vegetables, frankfurter,  }
+{ whole milk, other vegetables, soda,  }
+{ whole milk, other vegetables, chicken,  }
+{ whole milk, other vegetables, sugar,  }
+{ whole milk, other vegetables, newspapers,  }
+{ whole milk, other vegetables, pastry,  }
+{ whole milk, other vegetables, sausage,  }
+{ whole milk, other vegetables, brown bread,  }
+{ whole milk, other vegetables, shopping bags,  }
+{ whole milk, other vegetables, hamburger meat,  }
+{ whole milk, other vegetables, hygiene articles,  }
+{ whole milk, other vegetables, napkins,  }
+{ whole milk, other vegetables, pork,  }
+{ whole milk, other vegetables, domestic eggs,  }
+{ whole milk, other vegetables, oil,  }
+{ whole milk, other vegetables, frozen vegetables,  }
+{ whole milk, other vegetables, onions,  }
+{ whole milk, butter, rolls/buns,  }
+{ whole milk, butter, bottled water,  }
+{ whole milk, butter, root vegetables,  }
+{ whole milk, butter, whipped/sour cream,  }
+{ whole milk, butter, domestic eggs,  }
+{ whole milk, rolls/buns, bottled beer,  }
+{ whole milk, rolls/buns, bottled water,  }
+{ whole milk, rolls/buns, curd,  }
+{ whole milk, rolls/buns, beef,  }
+{ whole milk, rolls/buns, frankfurter,  }
+{ whole milk, rolls/buns, soda,  }
+{ whole milk, rolls/buns, chicken,  }
+{ whole milk, rolls/buns, fruit/vegetable juice,  }
+{ whole milk, rolls/buns, newspapers,  }
+{ whole milk, rolls/buns, pastry,  }
+{ whole milk, rolls/buns, sausage,  }
+{ whole milk, rolls/buns, brown bread,  }
+{ whole milk, rolls/buns, shopping bags,  }
+{ whole milk, rolls/buns, napkins,  }
+{ whole milk, rolls/buns, pork,  }
+{ whole milk, rolls/buns, whipped/sour cream,  }
+{ whole milk, rolls/buns, domestic eggs,  }
+{ whole milk, rolls/buns, frozen vegetables,  }
+{ whole milk, bottled beer, bottled water,  }
+{ whole milk, bottled water, soda,  }
+{ whole milk, bottled water, fruit/vegetable juice,  }
+{ whole milk, bottled water, root vegetables,  }
+{ whole milk, chocolate, soda,  }
+{ whole milk, curd, root vegetables,  }
+{ whole milk, curd, whipped/sour cream,  }
+{ whole milk, beef, root vegetables,  }
+{ whole milk, frankfurter, root vegetables,  }
+{ whole milk, soda, fruit/vegetable juice,  }
+{ whole milk, soda, pastry,  }
+{ whole milk, soda, root vegetables,  }
+{ whole milk, soda, sausage,  }
+{ whole milk, soda, brown bread,  }
+{ whole milk, soda, shopping bags,  }
+{ whole milk, soda, whipped/sour cream,  }
+{ whole milk, soda, domestic eggs,  }
+{ whole milk, chicken, root vegetables,  }
+{ whole milk, fruit/vegetable juice, root vegetables,  }
+{ whole milk, newspapers, root vegetables,  }
+{ whole milk, pastry, root vegetables,  }
+{ whole milk, pastry, sausage,  }
+{ whole milk, root vegetables, sausage,  }
+{ whole milk, root vegetables, brown bread,  }
+{ whole milk, root vegetables, shopping bags,  }
+{ whole milk, root vegetables, pork,  }
+{ whole milk, root vegetables, domestic eggs,  }
+{ whole milk, root vegetables, frozen vegetables,  }
+{ whole milk, sausage, whipped/sour cream,  }
+{ whole milk, whipped/sour cream, domestic eggs,  }
+{ pip fruit, other vegetables, rolls/buns,  }
+{ pip fruit, other vegetables, whipped/sour cream,  }
+{ other vegetables, butter, rolls/buns,  }
+{ other vegetables, butter, root vegetables,  }
+{ other vegetables, butter, whipped/sour cream,  }
+{ other vegetables, rolls/buns, bottled water,  }
+{ other vegetables, rolls/buns, beef,  }
+{ other vegetables, rolls/buns, frankfurter,  }
+{ other vegetables, rolls/buns, soda,  }
+{ other vegetables, rolls/buns, newspapers,  }
+{ other vegetables, rolls/buns, pastry,  }
+{ other vegetables, rolls/buns, sausage,  }
+{ other vegetables, rolls/buns, shopping bags,  }
+{ other vegetables, rolls/buns, pork,  }
+{ other vegetables, rolls/buns, whipped/sour cream,  }
+{ other vegetables, rolls/buns, domestic eggs,  }
+{ other vegetables, bottled water, soda,  }
+{ other vegetables, bottled water, root vegetables,  }
+{ other vegetables, bottled water, sausage,  }
+{ other vegetables, curd, root vegetables,  }
+{ other vegetables, beef, root vegetables,  }
+{ other vegetables, soda, pastry,  }
+{ other vegetables, soda, root vegetables,  }
+{ other vegetables, soda, sausage,  }
+{ other vegetables, soda, shopping bags,  }
+{ other vegetables, soda, domestic eggs,  }
+{ other vegetables, chicken, root vegetables,  }
+{ other vegetables, fruit/vegetable juice, root vegetables,  }
+{ other vegetables, newspapers, root vegetables,  }
+{ other vegetables, pastry, root vegetables,  }
+{ other vegetables, root vegetables, sausage,  }
+{ other vegetables, root vegetables, shopping bags,  }
+{ other vegetables, root vegetables, pork,  }
+{ other vegetables, root vegetables, domestic eggs,  }
+{ other vegetables, root vegetables, frozen vegetables,  }
+{ other vegetables, root vegetables, onions,  }
+{ other vegetables, sausage, shopping bags,  }
+{ other vegetables, whipped/sour cream, domestic eggs,  }
+{ rolls/buns, bottled water, soda,  }
+{ rolls/buns, soda, pastry,  }
+{ rolls/buns, soda, sausage,  }
+{ rolls/buns, soda, shopping bags,  }
+{ rolls/buns, sausage, shopping bags,  }
+{ bottled beer, bottled water, soda,  }
+{ bottled water, soda, fruit/vegetable juice,  }
+{ soda, sausage, shopping bags,  }
+{ citrus fruit, whole milk, other vegetables, root vegetables,  }
+{ tropical fruit, yogurt, whole milk, other vegetables,  }
+{ tropical fruit, yogurt, whole milk, root vegetables,  }
+{ tropical fruit, whole milk, other vegetables, root vegetables,  }
+{ yogurt, whole milk, pip fruit, other vegetables,  }
+{ yogurt, whole milk, other vegetables, rolls/buns,  }
+{ yogurt, whole milk, other vegetables, fruit/vegetable juice,  }
+{ yogurt, whole milk, other vegetables, root vegetables,  }
+{ yogurt, whole milk, other vegetables, whipped/sour cream,  }
+{ whole milk, pip fruit, other vegetables, root vegetables,  }
+{ whole milk, other vegetables, rolls/buns, root vegetables,  }
+{ whole milk, other vegetables, root vegetables, whipped/sour cream,  }
